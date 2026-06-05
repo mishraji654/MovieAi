@@ -359,7 +359,7 @@ npx expo start
 
 # 👨‍💻 Author
 
-Ayushmaan Yadav
+Rimjhim Mishra
 
 React Native Developer
 

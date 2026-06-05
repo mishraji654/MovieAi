@@ -140,45 +140,44 @@ export const moodGenres = {
 
 ---
 
+
 # 📸 Screenshots
 
+## Login Screen
+![Login Screen](screenshot/Login.png)
+
+## Register Screen
+![Register Screen](screenshot/Register.png)
+
 ## Home Screen
+![Home Screen](screenshot/MainPage.png)
 
-```md
-![Home Screen](screenshots/Home.png)
-```
+## AI Chat Screen
+![AI Chat Screen](screenshot/AIChat.png)
 
----
+## AI Result Screen
+![AI Result Screen](screenshot/AiResult.png)
 
-## Camera Screen
+## Camera Feature
+![Camera Feature](screenshot/CameraFeature.png)
 
-```md
-![Camera Screen](screenshots/Camera.png)
-```
+## Camera Feature Result
+![Camera Feature Result](screenshot/CameraFeature1.png)
 
----
+## Camera Result
+![Camera Result](screenshot/CameraResult.png)
 
-## Mood Detection
+## Movie Details Screen
+![Movie Details Screen](screenshot/MovieDetails.png)
 
-```md
-![Mood Detection](screenshots/MoodDetection.png)
-```
+## Favorites Screen
+![Favorites Screen](screenshot/favoratie.png)
 
----
+## Downloads Screen
+![Downloads Screen](screenshot/Downloads.png)
 
-## Movie Recommendation Screen
-
-```md
-![Movie Recommendations](screenshots/Result.png)
-```
-
----
-
-## Search Screen
-
-```md
-![Search Screen](screenshots/Search.png)
-```
+## Logout Profile Screen
+![Logout Profile Screen](screenshot/LogoutProfile.png)
 
 ---
 

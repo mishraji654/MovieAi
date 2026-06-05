@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "movie-ai",
+    "slug": "movie-ai",
+    "owner": "rimjhim-mishras-organization",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/img.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img.png",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/img.png"
+    },
+    "plugins": [
+      "expo-web-browser"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f4a605e7-52d7-4278-8896-f49ed3fd2b12"
+      }
+    }
+  }
+}
